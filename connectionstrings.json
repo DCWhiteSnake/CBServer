@@ -1,0 +1,2 @@
+﻿"MockCoreBanking:DefaultConnectionString" "Server=localhost;Database=CoreBankingMockDB;MultipleActiveResultSets=True;user id=dev;password=qwerty"
+"MockCoreBanking:DockerDefaultConnectionString" "Server=host.docker.internal, 1433;Database=CoreBankingMockDB;MultipleActiveResultSets=True;user id=dev;password=qwerty"

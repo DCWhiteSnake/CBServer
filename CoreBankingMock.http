@@ -1,0 +1,6 @@
+@CoreBankingMock_HostAddress = http://localhost:5139
+
+GET {{CoreBankingMock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
