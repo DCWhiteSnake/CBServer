@@ -1,0 +1,16 @@
+Create tables, 
+ust account trans table (acc number ,name email phone number, currency ,  address)
+Name enquiry
+
+Transaction Table (account Id, credit amount, debit amount, date, bal)
+
+api/account/credit
+api/account/Fundtransfer
+api/account/balanceenquiry
+api/account/nameenquiry 
+
+
+
+Account Balances (Account Id, Balance, Currency)
+
+Fund Transfer (Transaction Table))
